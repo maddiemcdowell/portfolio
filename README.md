@@ -1,7 +1,7 @@
 # My Portfolio
 Hi my name is Madison (Maddie) McDowell and I am a fourth year Computer Science and Statistics & Data Science minor at Loyola Marymount University. This portfolio showcases work I have done throughout my undergraduate career. I look foward to hopefully being able to add so many wonderful more projects to this portfolio that showcase what I will learn in graduate school. This repository provides many supporting files to all of the projects I have been proud to complete during these past few years of my undergraduate career.
 My portfolio can be found at this link: https://www.canva.com/design/DAGapinjcyg/Ks6pnGn_HUtvJ4xzFP8TKg/view?utm_content=DAGapinjcyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76360dd80
-## Portfolio
+## Portfolio Overview
 
 1. **Olive- Business Engineering Science Technology (BEST) Bootcamp Presentation**
    - In May 2024, I participated in the Business Engineering Science Technology (BEST) bootcamp through Loyola Marymount University. The bootcamp concluded with a cash prize, tech-focused business plan competition. My group placed third in the competition.
