@@ -17,32 +17,11 @@ My portfolio can be found at this link: https://www.canva.com/design/DAGapinjcyg
    - Link to presentation: https://www.canva.com/design/DAGXdHXruQ4/difsZLcdmZdCK9bRzirq1A/edit?utm_content=DAGXdHXruQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
    - Figma mockup UI design and presentation poster are included within the Pathfinder Senior Capstone folder and in my portfolio
 
-3. **Constraint Satisfaction Problem (CSP) Solver- Java**
-   - The constraint satisfaction problem (CSP) solver is a program I worked on for my Algorithms and Analysis class. It is a Java-based program designed to solve scheduling problems involving a set number of meetings within a defined date range, while satisfying specified unary and binary constraints.
-   - Unary Constraint (ex. meeting must occur on a specific date)
-   - Binary Constraint (ex. one meeting must occur before another)
-   - My program employs a backtracking algorithm with pre-processing techniques, node and arc consistency, to prune invalid options. This reduces computational complexity. The solver explores possible schedules to find one that satisfies all constraints, otherwise, it outputs that no feasible solution exists.
-   - Link to GitHub repository: https://github.com/lmu-cmsi2130-fall2022/lmu-cmsi2130-csp-solver
-
-4. **An Exploration into Expedia- Data Science Project**
-   - LiftHer is a user interface design project I did for my Interaction Design class. It is an app tailored for women who want to feel empowered in the gym, providing tools for confidently tracking their lifting progress. I was inspired by my own fitness journey from a hesitant beginner to a consistent gym goer; the app encourages women to embrace strength training in a traditionally male-dominated space.
-   - With a user-friendly interface, LiftHer offers features such as customizable workout tracking, vibrant visuals, and an intentionally sleek design to support users of all levels. Unlike many fitness apps on the market, LiftHer avoids toxic language, focuses on gym workouts over at-home sessions, and prioritizes individualized progress. LiftHer aims to combine tracking fitness goals with building a supportive community for women in fitness.
-   - Files related to this project are in the LiftHer UI Design Project folder
-
-5. **LiftHer- UI/UX Design Project**
+3. **An Exploration into Expedia- Data Science Project**
    - For the final project of my graduate-level Data Science course, my group decided to do a deep dive into an Expedia data set. We utilized a subset of a 6 million row dataset that instead only had 173,483 rows so that we could each process the data and collaborate efficiently.
    - The entry points of the data set represented flights that users searched for on the site Expedia. Features of the dataset include, starting airport, destination airport, price of flight, distances, type of airlines, time of travel, etc. My group utilized bar charts and scatter plots to visualize and analyze our data.
    - Since flight paths are best visualized by map, I decided to do my own research on how to create a map. I imported the folium and JSON library in junction with the pandas library to create a map with the flight paths from LAX to all airports that have the destination airport tag.
    - Files related to this project are in the Data Science Expedia Exploration Folder
      
 
-6. **myGainz- Web Application**
-   - myGainz is a web application that I created as part of a group project for my Web Application Development class. The web application that allows users to browse over 1300 exercises and track their workouts with pre-set workout splits! My group utilized programming libraries and tools such as React, Tailwind for CSS, and Google Firebase during our software development in order to make a seamless and user-friendly design and functionality.
-   - In addition to having hands-on experience programming web applications, this project taught me how to work on code projects collaboratively.
-   - Link to GitHub repository: https://github.com/maddiemcdowell/myGainz-Web-App
-   - Link to Live Site: https://mygainz2022.web.app/
-   - This project is from 2022 so many of the gifs from the API that we utilized are now behind a pay wall and may not render as expected and may cause other issues in the app’s functionality.
- 
 
-
- 
