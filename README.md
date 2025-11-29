@@ -1,27 +1,103 @@
-# My Portfolio
-Hi my name is Madison (Maddie) McDowell and I have a B.S. in Computer Science from Loyola Marymount University and obtaining an M.S. in Big Data Analytics from San Diego State University. This portfolio showcases work I have done throughout my undergraduate career. I look foward to hopefully being able to add so many wonderful more projects to this portfolio that showcase what I will learn in my time at graduate school. This repository provides many supporting files to all of the projects I have been proud to complete during these past few years of my undergraduate career.
-My portfolio can be found at this link: https://www.canva.com/design/DAGapinjcyg/Ks6pnGn_HUtvJ4xzFP8TKg/view?utm_content=DAGapinjcyg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc76360dd80
-## Portfolio Overview
+Portfolio Link: https://madisonmcdowellportfolio.netlify.app/
 
-1. **Olive- Business Engineering Science Technology (BEST) Bootcamp Presentation**
-   - In May 2024, I participated in the Business Engineering Science Technology (BEST) bootcamp through Loyola Marymount University. The bootcamp concluded with a cash prize, tech-focused business plan competition. My group placed third in the competition.
-   - Our pitch, Olive, is an intelligent scheduling app, effortlessly organizing  tasks and appointments while learning user’s habits for optimal productivity.
-   - My main task was mocking up the multiple user interfaces of Olive; I utilized Figma for creating these designs. I also worked on user research and documenting the business applications of our product.
-   - Link to presentation: https://www.canva.com/design/DAGEl6jbTiM/_z5F57idJTnnDp0lpeZdhA/edit
-   - Figma mockup UI designs are included within the above Canva presentation and showcased in my portfolio
+# **Madison McDowell**  
+maddiemcdowell16@gmail.com | LinkedIn: www.linkedin.com/in/madison-mcdowell16
 
-2. **Pathfinder- Senior Capstone Project**
-   - For the first semester of my two-semester Senior Capstone course, my team created Pathfinder, an all-in-one career development web application. It yields features such as, resume analysis, job matching, and an AI-powered chatbot.
-   - As the UI Designer, my primary responsibility this semester was to conceptualize and design the user interface utilizing Figma. It was challenging at times to create an entirely new design with no already established framework or set of design guidelines.
-   - Next semester, my focus will shift to transforming these designs into a functional front-end using HTML, CSS, and JavaScript. I look forward to bringing the UI to life and collaborating with my team during our software development process in order to finalize the project that showcases all we have learned throughout our computer science careers at LMU.
-   - Link to presentation: https://www.canva.com/design/DAGXdHXruQ4/difsZLcdmZdCK9bRzirq1A/edit?utm_content=DAGXdHXruQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-   - Figma mockup UI design and presentation poster are included within the Pathfinder Senior Capstone folder and in my portfolio
+---
 
-3. **An Exploration into Expedia- Data Science Project**
-   - For the final project of my graduate-level Data Science course, my group decided to do a deep dive into an Expedia data set. We utilized a subset of a 6 million row dataset that instead only had 173,483 rows so that we could each process the data and collaborate efficiently.
-   - The entry points of the data set represented flights that users searched for on the site Expedia. Features of the dataset include, starting airport, destination airport, price of flight, distances, type of airlines, time of travel, etc. My group utilized bar charts and scatter plots to visualize and analyze our data.
-   - Since flight paths are best visualized by map, I decided to do my own research on how to create a map. I imported the folium and JSON library in junction with the pandas library to create a map with the flight paths from LAX to all airports that have the destination airport tag.
-   - Files related to this project are in the Data Science Expedia Exploration Folder
-     
+## **ABOUT**  
+I'm a passionate data science graduate student with a strong foundation in computer science and statistics. I am currently pursuing my Master's in Big Data Analytics at San Diego State University. I am seeking internship and employment opportunities where I can further develop my skills and contribute to impactful projects.
+
+---
+
+## **EDUCATION**
+
+### **San Diego State University**  
+**Master of Science in Big Data Analytics**  
+August 2025 – May 2027  
+
+### **Loyola Marymount University**  
+**Bachelor of Science in Computer Science**  
+Minor in Data Science & Statistics  
+GPA: 3.8 • Magna Cum Laude  
+May 2025
+
+---
+
+## **EXPERIENCE**
+
+### **Loyola Marymount University, School of Education**  
+**Data Entry Assistant** | September 2024 – May 2025  
+- Cleaned and maintained two databases: a 650+ entry directory of deans from national Colleges of Education and a 100+ entry alumni database, ensuring accuracy and standardization across all records
+- Optimized administrative processes by restructuring datasets, designing organized spreadsheets, and implementing efficient data entry protocols
 
 
+### **Undivided (Special X, Inc.)**  
+**Full Stack Engineering Intern** | March 2024 – July 2024  
+- Contributed to web and internal tool development, including UI/UX prototyping in Figma and backend feature implementation
+- Supported engineering mobile and web development teams through agile sprints, QA testing, and API integration
+- Participated in weekly stand-ups with engineering teams to plan best practices for maintaining platform stability for thousands of users
+- Combined passion for helping the special needs community with my emerging skills in the technical field
+
+### **Loyola Marymount University, LMU Cares**  
+**American Sign Language Assistant Educator** | March 2023 – May 2024  
+- Taught 2 lessons a week to students, staff, and faculty across ASL 1 and ASL 2
+- Collaborated with a 4 member teaching team to design lesson plans in American Sign Language and Deaf culture 
+- Built a digital ASL education website featuring a bank of 75+ instructional signs
+
+---
+
+## **PROJECTS**
+
+### **Big Data Analytics Hackathon**  
+San Diego State University • November 2025  
+- Competed in and awarded a cash prize for a 2-day hackathon where I collaborated with a team of 4 to pitch HomeBase an innovative solution to centralize and improve access to resources for the homeless population in San Diego County
+
+### **Long Beach Animal Shelter Data Analysis**  
+Loyola Marymount University • May 2025  
+- Conducted exploratory data analysis on 29,000+ Long Beach Animal Shelter records 
+- Built 3 R-based visualizations to analyze species intake distributions 
+- Created 2 Tableau visualizations to compare outcome type rates by species and highlight disparities in adoption vs. euthanasia outcomes
+
+### **Coral Bleaching Data Analysis**  
+Loyola Marymount University • May 2025  
+- Analyzed three datasets totaling 15,000+ entries to investigate ecological and climate-driven predictors of coral reef decline
+- Utilized the requests Python library to extract 8,700+ species-level coral occurrence records
+- Web-scraped bleaching event records using Selenium and ChromeDriver, producing a cleaned dataset of 185 historical bleaching events 
+- Built an interactive Tableau dashboard including five visualizations
+- Conducted a Pearson correlation analysis revealing a positive linear relationship between sea surface temperature and bleaching severity
+
+### **Health Belief Models: An Exploration Into COVID-19 Vaccines**  
+Loyola Marymount University • January 2025 – May 2025  
+- Analyzed five COVID-19 vaccine behavior datasets (n = 100–1000+) using R to examine how the Health Belief Model can be utilized to predict vaccine willingness and acceptance
+- Cleaned and merged datasets and computed standardized z-scores for susceptibility, severity, benefits, and barriers.
+- Ran 25+ correlation tests with confidence intervals to quantify predictors of vaccine behaviors
+- Built and analyzed five linear regression models, extracting coefficients, confidence intervals, and behavioral insights across studies
+- Strengthened skills in hypothesis testing, statistical modeling, and experience utilizing the dplyr, ggplot2, and lmerTest libraries
+
+### **Pathfinder — Senior Capstone Project**  
+Loyola Marymount University • August 2024 – May 2025  
+- Co-developed an all-in-one career exploration web app used in the senior engineering showcase
+- Built core features that guide users through job discovery, skills mapping, and career planning
+- Collaborated with a 4-member team using agile workflows to deliver a functional MVP on time
+- Presented project outcomes and system design at the School of Engineering capstone presentation
+
+### **Business, Engineering, Science & Technology (BEST) Bootcamp**  
+Loyola Marymount University • May 2024  
+- Completed a 1-week certificate program where I collaborated with a team to pitch Olive, an AI-enhanced scheduling app
+- Awarded a cash prize in final business pitch presentation
+
+
+---
+
+## **SKILLS**
+
+**Programming & Data Tools:** Python, R, JavaScript, SQL, Tableau, SPSS, GitHub, ArcGIS  
+**Data Skills:** Data Cleaning, Data Entry, Exploratory Data Analysis, Data Visualization, Statistical Analysis, Linear Regression Modeling  
+**Software:** Microsoft Excel, Google Workspace, Figma, VS Code  
+**Languages:** American Sign Language (working proficiency)
+
+---
+
+## **RELEVANT COURSEWORK**  
+Big Data Science & Analytic Platforms • Probability & Statistics • Biostatistics • Big Data Research • Data Visualization • Enterprise Database Management • Python Programming • Artificial Intelligence • Applied Linear Algebra
